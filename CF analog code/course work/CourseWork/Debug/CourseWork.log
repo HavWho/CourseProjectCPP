@@ -1,0 +1,7 @@
+﻿  CourseWork.cpp
+C:\Users\Sanya\Desktop\PTManager\CF analog code\course work\CourseWork\CourseWork.cpp(205,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sanya\Desktop\PTManager\CF analog code\course work\CourseWork\CourseWork.cpp(210,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sanya\Desktop\PTManager\CF analog code\course work\CourseWork\CourseWork.cpp(301,25): warning C4101: currentProcess: неиспользованная локальная переменная
+C:\Users\Sanya\Desktop\PTManager\CF analog code\course work\CourseWork\CourseWork.cpp(358,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sanya\Desktop\PTManager\CF analog code\course work\CourseWork\CourseWork.cpp(379,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  CourseWork.vcxproj -> C:\Users\Sanya\Desktop\PTManager\CF analog code\course work\Debug\CourseWork.exe
